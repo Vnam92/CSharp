@@ -41,6 +41,7 @@
     <Content Include="packages.config" />
     <Content Include="Default.aspx" />
     <Content Include="Logging.aspx" />
+    <Content Include="index.html" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Global.asax.cs">
